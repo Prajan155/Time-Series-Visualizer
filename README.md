@@ -1,6 +1,4 @@
-Great idea! A Table of Contents (ToC) should give readers a quick roadmap of what they’ll find in the README. Here’s an updated version with short explanations for each section:
 
----
 
 # Time-Series-Visualizer
 
